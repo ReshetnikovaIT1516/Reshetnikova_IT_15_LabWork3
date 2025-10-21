@@ -9,6 +9,7 @@ import ru.reshetnikova.weapon.ReloadingTheGun;
 import ru.reshetnikova.weapon.Shooter;
 import ru.reshetnikova.power.PowerCalculator;
 import ru.reshetnikova.weapon.Gun8;
+import ru.reshetnikova.main.ShooterDemo;
 
 import java.util.Scanner;
 public class Main {
